@@ -2,14 +2,13 @@ thermospheric-density
 
 [![DOI](https://zenodo.org/badge/770243264.svg)](https://zenodo.org/doi/10.5281/zenodo.10807295)
 
-
-The data/software availability statement of manuscript submitted to Space Weather journal. The research article is Empirical Mode Decomposition Feature Based Bi-LSTM and GRU Neural Network Predictions of Thermospheric Density During Disturbed and Quiet Conditions in 2018-2022. Authors are Patapong Panpiboon, Kanthanakorn. Noysena and Thana Yeeram. There is additional explanation as follows.
+The data/software availability statement for the manuscript submitted to the Space Weather journal. The research article is titled Empirical Mode Decomposition Feature Based Bi-LSTM and GRU Neural Network Predictions of Thermospheric Density During Quiet and Disrupted Conditions in 2018–2022. The authors behind this work are Patapong Panpiboon, Kanthanakorn Noysena and Thana Yeeram. Here is some additional information to help you understand.
 
 1. Enter the website https://colab.research.google.com/
 2. Select the GitHub button.
 3. Enter GitHub: https://github.com/PatapongPanpiboon/thermospheric-density and press search.
 
-4. Click to select the Jupyter Notbook file as follows.
+4. Click to select the Jupyter Notbook file as follows:
 
            4.1 Select the research_period.ipynb file for checking Figure 1.
 
@@ -28,4 +27,4 @@ The data/software availability statement of manuscript submitted to Space Weathe
 
            4.8 Select the files Bi-LSTM_3hr-prediction.ipynb and GRU_3hr-prediction.ipynb for checking Table 4.
 
-5. Check the code or run it one cell at a time in sequence.
+5. Check the python code or run it one cell at a time in sequence.
