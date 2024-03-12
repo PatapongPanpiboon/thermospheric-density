@@ -7,7 +7,7 @@ The data/software availability statement of manuscript submitted to Space Weathe
 4. Click to select the Jupyter Notbook file as follows.
 4.1 Select the research_period.ipynb file. For checking Figure 1.
 4.2 Select the datasets.ipynb file. For checking Figure 2. 
-   Note: Because the file is very large. This file requires downloading additional files from Link https://zenodo.org/records/10802702?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTcxMDEyNDQ0NywiZXhwIjoxNzQxNjUxMTk5fQ.eyJpZCI6ImE2MTQ3MjRlLWRiMjQtNGQ3MS1hNmYyLTdkNDUxNj EyNzJjMSIsImRhdGEiOnt9LCJyYW5kb20iOiIzNjhmMzQ3ZTI4NWU2NTVhZDcyNWM4NzNjOTQzYmEzMiJ9.9uah30ekkYQkQ29l98Ct72knbPYIohKZvF9EG-SkoW4aOsLjnmzz-O5cq B46o3B3ULBABy0J0HxuZuR1UxY63A. 
+   Note: Because the file is very large. This file requires downloading additional files from https://doi.org/10.5281/zenodo.10802702
 Citation: Panpiboon, P. (2024). Thermospheric density form GRACE-FO satellite [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10802702
 4.3 Select the correlation.ipynb file. For checking Figure 5.
 4.4 Select the file EMDtoIMFplot.ipynb. For checking Figure 6.
