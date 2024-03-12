@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/770243264.svg)](https://zenodo.org/doi/10.5281/zenodo.10807295)
 The data/software availability statement of manuscript submitted to Space Weather journal. The research article is Empirical Mode Decomposition Feature Based Bi-LSTM and GRU Neural Network Predictions of Thermospheric Density During Disturbed and Quiet Conditions in 2018-2022. Authors are Patapong Panpiboon, Kanthanakorn. Noysena and Thana Yeeram. There is additional explanation as follows.
 
 1. Enter the website https://colab.research.google.com/
