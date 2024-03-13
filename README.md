@@ -1,4 +1,4 @@
-#thermospheric-density
+***thermospheric-density-predicton (tdp) initial released v0.1.1***
 
 [![DOI](https://zenodo.org/badge/770243264.svg)](https://zenodo.org/doi/10.5281/zenodo.10807295)
 
@@ -13,7 +13,7 @@ The data/software availability statement for the manuscript submitted to the Spa
            4.1 Select the research_period.ipynb file for checking Figure 1.
 
            4.2 Select the datasets.ipynb file for checking Figure 2. 
-   Note: Because the file is very large. This file requires downloading additional files from https://doi.org/10.5281/zenodo.10802702
+   Note: The input files are very big data. This file requires downloading additional files from https://doi.org/10.5281/zenodo.10802702
 
            4.3 Select the correlation.ipynb file for  checking Figure 5.
 
