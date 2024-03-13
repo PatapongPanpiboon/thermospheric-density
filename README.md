@@ -1,4 +1,4 @@
-***thermospheric-density-predicton (tdp) initial released v0.1.1***
+***thermospheric-density-predicton (tdp) Initial Releases v0.1.1***
 
 [![DOI](https://zenodo.org/badge/770243264.svg)](https://zenodo.org/doi/10.5281/zenodo.10807295)
 
